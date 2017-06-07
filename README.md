@@ -10,3 +10,4 @@
 * PyTorch / Torch
 * Chainer
 * MXNet
+* [Core ML (Apple)](https://developer.apple.com/documentation/coreml)
