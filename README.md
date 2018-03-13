@@ -14,3 +14,8 @@
 ### API
 
 * [Core ML (Apple)](https://developer.apple.com/documentation/coreml)
+
+
+#### Algorithms
+
+* https://www.datasciencecentral.com/profiles/blogs/12-algorithms-every-data-scientist-should-know
